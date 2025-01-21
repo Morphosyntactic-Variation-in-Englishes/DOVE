@@ -6,7 +6,7 @@ DOI: tba
 
 ### About 
 
-This dataset comprises extensive socio-demographic information for 72 spontaneous spoken varieties of English spoken world-wide. In total, DOVE comprises information on 16 extra-linguistic triggers (aka socio-demographic information) which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
+This dataset comprises extensive socio-demographic information for 71 spontaneous spoken varieties of English around the world. In total, DOVE comprises information on 16 extra-linguistic triggers (aka socio-demographic information) which can be broadly assigned to the categories geography, language contact/isolation, socio-history and demography. 
 
 DOVE was compiled as part of the project [Extra-linguistic triggers of Morphosyntactic Variation in Englishes](https://sites.google.com/site/katlehret/research/MoVE) (MoVE) and was designed for studying the relationship between extra-linguistic triggers and morphosyntactic variation in spontaneous spoken English varieties, with a focus on language complexity. DOVE builds on and complements the information contained in the [electronic World Atlas of Varieties of English ](https://ewave-atlas.org/) (eWAVE), the currently largest database of morphosyntactic features in Englishes (Kortmann et al. 2020). 
 
@@ -33,6 +33,10 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 || Percentage of urban population (15) | Percentage of urban population| urban_pop |
 ||GNI (16) |Gross national income per capita (GNI) | GNI|
 
+### Sources
+
+All information contained in DOVE is based on or was derived from open-access sources including governmental census data, non-governmental surveys and language projects, as well as published scientific work. Detailed information and acknowledgement of all sources is provided in the documentation together with licensing information and URLs (where applicable). All errors remain my own.
+
 ### File and folder structure
 
 * :file_folder: data
@@ -45,7 +49,7 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
   * contact.pdf -- definitions, description and detailed documentation of sources for triggers of language contact.
   * demography.pdf -- definitions, description and detailed documentation of sources for demographic and socio-historical triggers.
   * additional.pdf -- documentation of coding and sources for additional descriptive information.
-  * appendix.pdf -- detailed description of how English varieties in Suriname and French Guinea have been guesstimated.
+  * appendix.pdf -- detailed description of estimation for English varieties in Suriname and French Guinea.
 
 ### Release note
 
