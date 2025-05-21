@@ -16,22 +16,23 @@ Table 1: Overview of extra-linguistic triggers by category. Numbers provided in 
 
 | Category/construct | Operationalised parameter | Brief description | Variable name | 
 | ------------- | ------------- | ------------- | ------------- |
-| Geography  | Geographic spread (1)  | Country size in km²; if applicable territory, region or land area for islands | spread |
-|   | Coordinates (2)  | Longitude and latitude WGS84 of the sociolinguistic centre/administrative centre/capital| longitude, latitude | 
-|  |Region (3) |World region and micro region | region, region_micro |
-|  Contact | Proportion of non-native speakers (4) | Calculated as the percentage of non-native speakers in relation to population size | prop_non-natives | 
-|  | Number of contact languages (5)  |  Languages spoken by at least 10% of the population of the respective country/territory; all L1 languages spoken in a country/territoty | contact_languages; all_L1 |
-|   | Number of source languages (6)  |  The contributing source language (only for pidgins and creoles), if known|  source_languages | 
-||Official bilingualism/multilingualism (7) | Are two or more languages listed as official language(s)? | bilingualism (yes/no)|
-|Socio-historical background|Variety type (8)|Variety type as listed in [eWAVE 3.0](https://ewave-atlas.org/)| language_type |
-|Society/demography|Number of native speakers (9) | Number of native speakers per national territory/variety | natives |
-||Number of non-native speakers (10)|Number of non- native speakers per national territory/variety|non-natives|
-||Population size/Speech community (11)|Number of native and non-native speakers in a given territory/country|population|
-||Status as official language (12)|Is English an official language? |official (yes/no)|
-||Percentage of literacy (13) |Percentage of adult literacy 15+ both sexes|literacy, literacy_rounded |
-| | Education (14) |Mean years of schooling | education|
-|| Percentage of urban population (15) | Percentage of urban population| urban_pop |
-||GNI (16) |Gross national income per capita (GNI) | GNI|
+| Geography  | Geographic spread  | Country size in km²; if applicable territory, region or land area for islands | spread |
+|   | Coordinates  | Longitude and latitude WGS84 of the sociolinguistic centre/administrative centre/capital| longitude, latitude | 
+|  |Region  |World region and micro region | region, region_micro |
+|  Contact | Proportion of non-native speakers  | Calculated as the percentage of non-native speakers in relation to population size | prop_non-natives | 
+|  | Number of contact languages   |  Languages spoken by at least 10% of the population of the respective country/territory; all L1 languages spoken in a country/territoty | contact_languages; all_L1 |
+|   | Number of source languages  |  The contributing source language (only for pidgins and creoles), if known|  source_languages | 
+||Official bilingualism/multilingualism  | Are two or more languages listed as official language(s)? | bilingualism (yes/no)|
+|Socio-historical background|Variety type |Variety type as listed in [eWAVE 3.0](https://ewave-atlas.org/)| language_type |
+|Society/demography|Number of native speakers  | Number of native speakers per national territory/variety | natives |
+||Number of non-native speakers |Number of non- native speakers per national territory/variety|non-natives|
+||Population size/Speech community |Number of native and non-native speakers in a given territory/country|population|
+||Status as official language |Is English an official language? |official (yes/no)|
+||Percentage of literacy  |Percentage of adult literacy 15+ both sexes|literacy, literacy_rounded |
+| | Education  |Mean years of schooling | education|
+|| Percentage of urban population  | Percentage of urban population| urban_pop |
+||GNI |Gross national income per capita (GNI) | GNI|
+||Migration rate |Net migration rate | migration|
 
 ### Sources
 
@@ -53,7 +54,7 @@ All information contained in DOVE is based on or was derived from open-access so
 
 ### Release note
 
-DOVE v1.0 is currently not openly accessible but access may be granted upon request. The full dataset will be made publicly available in December 2026.
+DOVE v1.0 is currently not openly accessible and still partially under construction. The full dataset will be made publicly available in December 2026.
 
 ### Copyright and citation
 
