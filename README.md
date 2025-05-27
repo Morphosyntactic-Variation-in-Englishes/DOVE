@@ -58,6 +58,9 @@ DOVE v1.0 is currently not openly accessible and still partially under construct
 
 ### Copyright and citation
 
+> [!IMPORTANT]
+> Individual data is subject to copyright and the terms and conditions indicated on the respective websites. The licence used here for publication was chosen based on the most restrictive licence in DOVE. This means that individual data may have less copyright restrictions. Beyond citation of this resource, reference to the individual sources is recommended.
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under
@@ -80,6 +83,6 @@ As part of project MoVE, DOVE was generously funded by the [Fritz Thyssen Founda
 
 Many thanks also go to my colleagues, all experts in one or more of the varieties comprised in this dataset for providing missing information on socio-demographic variables, helfpul suggestions and references to other sources (in alphabetical order): 
 
-Robert Bailey, Laurie Bauer, Tobias Bernaisch, Ariane Macalinga Borlongan, Alfred Buregeya, David Britain, Sandra Clarke, Dagmar Deuber, Michael Ellis, Sabine Erhart, Sandra Evans, Nick Faraclas, Markku Filppula, Hans Fonka, Stephanie Hackert, Raymond Hickey, Magnus Huber, Jakob Leimgruber, Robert Mailhammer, Christian Mair, Miriam Meyerhoff, Michael Meyler, Bettina Migge, Salikoko Mufwene, Peter Mühlhäusler, Daniel Nkemleke, Stefanie Pillai, Raymond Oenbring, Heidi Quinn, Anna Rosen, Jeffrey Reaser, Mark Sebba, Jeff Siegel, Kingsley Ugwuanyi
+Robert Bailey, Laurie Bauer, Tobias Bernaisch, Ariane Macalinga Borlongan, Alfred Buregeya, David Britain, Sandra Clarke, Dagmar Deuber, Michael Ellis, Sabine Erhart, Sandra Evans, Nick Faraclas, Markku Filppula, Hans Fonka, Stephanie Hackert, Raymond Hickey, Magnus Huber, Bernd Kortmann, Jakob Leimgruber, Robert Mailhammer, Christian Mair, Miriam Meyerhoff, Michael Meyler, Bettina Migge, Salikoko Mufwene, Peter Mühlhäusler, Daniel Nkemleke, Stefanie Pillai, Raymond Oenbring, Heidi Quinn, Anna Rosen, Jeffrey Reaser, Mark Sebba, Jeff Siegel, Kingsley Ugwuanyi
 
 
