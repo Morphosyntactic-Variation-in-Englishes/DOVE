@@ -1,6 +1,6 @@
 # DOVE 
 
-## A socio-demographic Dataset fOr Varieties of English (v1.0)
+## A socio-demographic Dataset fOr Varieties of English
 
 DOI: tba
 
@@ -42,7 +42,7 @@ All information contained in DOVE is based on or was derived from open-access so
 
 * :file_folder: data
 
-  * languages_DOVE1.0_DDMonthYY.csv -- a spreadsheet containing socio-demographic information for 71 varieties of English and additional descriptive information such as variety name or abbreviation.
+  * languages_DOVE1.0_DDMonthYY.csv -- a spreadsheet containing socio-demographic information for English varieties and additional descriptive information such as variety name or abbreviation.
 
 * :file_folder: documentation
 
@@ -51,6 +51,7 @@ All information contained in DOVE is based on or was derived from open-access so
   * demography.pdf -- definitions, description and detailed documentation of sources for demographic and socio-historical triggers.
   * additional.pdf -- documentation of coding and sources for additional descriptive information.
   * appendix.pdf -- detailed description of estimation for English varieties in Suriname and French Guinea.
+
 
 ### Release note
 
@@ -74,7 +75,7 @@ This work is licensed under
 
 #### Cite as
 
-Ehret, Katharina. 2024. DOVE - A socio-demographic Dataset fOr Varieties of English (v1.0). Zenodo.
+Ehret, Katharina. 2025. DOVE - A socio-demographic Dataset fOr Varieties of English (v1.0). Zenodo.
 DOI: tba
 
 ### Acknowledgements
