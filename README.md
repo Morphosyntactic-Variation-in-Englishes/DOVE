@@ -48,7 +48,7 @@ This work is licensed under
 
 #### Citation
 
-Beyond attribution of the original sources, reference to the respective released version of DOVE should be made. Releases are archived with and available from ZENODO at 
+Beyond attribution of the original sources, reference to the respective released version of DOVE should be made. Releases are archived with and available from ZENODO at https://zenodo.org/records/16794586
 
 ### Acknowledgements
 
