@@ -1,26 +1,26 @@
-ID,name,latitude,longitude,glottocode,region,macro_region,country_id,language_type,abbr,spread,migration,contact_languages,contact_languages_names,all_L1,natives,non_natives,ewave
-2,Scottish English,56.9,-1.7,,BI,BI,GB,L1t,ScE,77933,6033,0,,17,5002242,5191030,yes
-3,Irish English,52.8,-7.8,iris1255,BI,BI,IE/GB,L1c,IrE,82430,6733,0,,21,5067445,786703,yes
-4,Manx English,54.16,-4.57,manx1244,BI,BI,IM,L1c,ManxE,572,2107,0,,2,7388,0,yes
-5,Welsh English,52.3,-3.5,wels1248,BI,BI,GB,L1c,WelE,20779,6033,0,,17,2668660,96856,yes
-6,English dialects in the North of England,53.7,-1.7,,BI,BI,GB,L1t,North,37331,6033,0,,17,4197167,481,yes
-7,English dialects in the Southwest of England,50.8,-4,,BI,BI,GB,L1t,SW,9200,6033,0,,17,1171642,89,yes
-9,English dialects in the Southeast of England,51.1,0.6,,BI,BI,GB,L1t,SE,19120,6033,0,,17,1142549,152,yes
-14,Colloquial American English,39.1,-101.8,,Am,Am,US,L1c,CollAmE,9147593,3723,1,Spanish,161,241032343,51369809,yes
-26,Jamaican English,17.97,-76.64,jama1265,Ca,Ca,JM,L2,JamE,10831,-3.7,0,,1,282770,2403541,yes
-39,Ghanaian English,7.36,-1.42,ghan1247,Af,Af,GH,L2,GhE,227533,-381,2,Akan/Ewe,90,1407632,16713508,yes
-41,Nigerian English,9.1,7.38,nige1260,Af,Af,NG,L2,NigE,910768,-151,3,Hausa/Yoruba/Igbo,559,15364895,113102701,yes
-46,Kenyan English,-1.4,36.91,keny1281,Af,Af,KE,L2,KenE,569140,-351,2,Kiswahili/Kikuyu,78,2650281,341886210,yes
-47,Ugandan English,0.35,32.6,ugan1243,Af,Af,UG,L2,UgE,197100,-2358,3,Luganda/Runyankole /Lusoga,59,962929,18356672,yes
-52,Indian English,28.61,77.34,indi1255,As,As,IN,L2,IndE,2973193,-435,1,Hindi,490,259678,128279412,yes
-55,Sri Lankan English,6.92,79.84,sril1243,As,As,LK,L2,SLkE,64630,-1179,2,Sinhala/Tamil,4,11078,5273128,yes
-56,Hong Kong English,22.26,114.25,hong1245,As,As,HK,L2,HKE,1073,-2599,1,Cantonese,4,330782,3323559,yes
-57,Colloquial Singapore English (Singlish),1.4,103.71,sing1272,As,As,SG,L1c,CollSgE,709.2,3431,1,Chinese,6,1735242,2264758,yes
-59,Australian English,-35.17,149.06,aust1314,Au,Oc,AU,L1c,AusE,7682300,5185,0,,167,18303662,3945100,yes
-64,New Zealand English,-42.2,172.1,newz1240,Pa,Oc,NZ,L1c,NZE,264537,3599,0,,8,3651710,831857,yes
-75,Philippine English,14.65,121.05,phil1246,As,As,PH,L1c,PhilE,298170,-1384,2,Tagalog/Bisaya,183,153443,62091030,yes
-78,British English,51.51,-0.13,,BI,BI,GB,L1c,BrE,209331,6033,0,,17,52178078,10164913,no
-79,Canadian English,45.42,-75.67,cana1268,Am,Am,CA,L1c,CanE,9984670,9275,1,French,88,21372885,12264550,no
-80,English dialects in the Midlands,52.48,-1.89,,BI,BI,GB,L1t,Mid,9778,6033,0,,17,2154916,261,no
-81,Trinidadian English,10.65,-61.47,trin1276,Ca,Ca,TT,L2,TTE,5128,885,0,,3,1278000,222000,no
-82,Hebridean English,58.2,-6.3,,BI,BI,GB,L1t,HebE,4712,6033,0,,17,13720,11604,no
+ID,name,latitude,longitude,glottocode,region,macro_region,country_id,language_type,abbr,spread,migration,GNI,education,contact_languages,contact_languages_names,all_L1,natives,non_natives,literacy,ewave
+2,Scottish English,56.9,-1.7,,BI,BI,GB,L1t,ScE,77933,6033,45225,13.4,0,,17,5002242,5191030,96.4,yes
+3,Irish English,52.8,-7.8,iris1255,BI,BI,IE/GB,L1c,IrE,82430,6733,60697,12.5,0,,21,5067445,786703,96.2,yes
+4,Manx English,54.16,-4.57,manx1244,BI,BI,IM,L1c,ManxE,572,2107,45225,13.4,0,,2,7388,0,96.7,yes
+5,Welsh English,52.3,-3.5,wels1248,BI,BI,GB,L1c,WelE,20779,6033,45225,13.4,0,,17,2668660,96856,88,yes
+6,English dialects in the North of England,53.7,-1.7,,BI,BI,GB,L1t,North,37331,6033,45225,13.4,0,,17,4197167,481,96.7,yes
+7,English dialects in the Southwest of England,50.8,-4,,BI,BI,GB,L1t,SW,9200,6033,45225,13.4,0,,17,1171642,89,96.7,yes
+9,English dialects in the Southeast of England,51.1,0.6,,BI,BI,GB,L1t,SE,19120,6033,45225,13.4,0,,17,1142549,152,96.7,yes
+14,Colloquial American English,39.1,-101.8,,Am,Am,US,L1c,CollAmE,9147593,3723,64765,13.7,1,Spanish,161,241032343,51369809,96.4,yes
+26,Jamaican English,17.97,-76.64,jama1265,Ca,Ca,JM,L2,JamE,10831,-3.7,8834,9.2,0,,1,282770,2403541,88.09,yes
+39,Ghanaian English,7.36,-1.42,ghan1247,Af,Af,GH,L2,GhE,227533,-381,5745,8.3,2,Akan/Ewe,90,1407632,16713508,80.38,yes
+41,Nigerian English,9.1,7.38,nige1260,Af,Af,NG,L2,NigE,910768,-151,4790,7.2,3,Hausa/Yoruba/Igbo,559,15364895,113102701,62.02,yes
+46,Kenyan English,-1.4,36.91,keny1281,Af,Af,KE,L2,KenE,569140,-351,4474,6.7,2,Kiswahili/Kikuyu,78,2650281,341886210,82.62,yes
+47,Ugandan English,0.35,32.6,ugan1243,Af,Af,UG,L2,UgE,197100,-2358,2181,5.7,3,Luganda/Runyankole /Lusoga,59,962929,18356672,79,yes
+52,Indian English,28.61,77.34,indi1255,As,As,IN,L2,IndE,2973193,-435,6590,6.7,1,Hindi,490,259678,128279412,74.37,yes
+55,Sri Lankan English,6.92,79.84,sril1243,As,As,LK,L2,SLkE,64630,-1179,12578,10.8,2,Sinhala/Tamil,4,11078,5273128,92.38,yes
+56,Hong Kong English,22.26,114.25,hong1245,As,As,HK,L2,HKE,1073,-2599,62607,12.2,1,Cantonese,4,330782,3323559,67.7,yes
+57,Colloquial Singapore English (Singlish),1.4,103.71,sing1272,As,As,SG,L1c,CollSgE,709.2,3431,90919,11.9,1,Chinese,6,1735242,2264758,97.13,yes
+59,Australian English,-35.17,149.06,aust1314,Au,Oc,AU,L1c,AusE,7682300,5185,49238,12.7,0,,167,18303662,3945100,96.9,yes
+64,New Zealand English,-42.2,172.1,newz1240,Pa,Oc,NZ,L1c,NZE,264537,3599,44057,12.9,0,,8,3651710,831857,97.5,yes
+75,Philippine English,14.65,121.05,phil1246,As,As,PH,L1c,PhilE,298170,-1384,8920,9,2,Tagalog/Bisaya,183,153443,62091030,96.28,yes
+78,British English,51.51,-0.13,,BI,BI,GB,L1c,BrE,209331,6033,45225,13.4,0,,17,52178078,10164913,96.7,no
+79,Canadian English,45.42,-75.67,cana1268,Am,Am,CA,L1c,CanE,9984670,9275,46808,13.8,1,French,88,21372885,12264550,96.2,no
+80,English dialects in the Midlands,52.48,-1.89,,BI,BI,GB,L1t,Mid,9778,6033,45225,13.4,0,,17,2154916,261,96.7,no
+81,Trinidadian English,10.65,-61.47,trin1276,Ca,Ca,TT,L2,TTE,5128,885,23392,11.6,0,,3,1278000,222000,98.7,no
+82,Hebridean English,58.2,-6.3,,BI,BI,GB,L1t,HebE,4712,6033,45225,13.4,0,,17,13720,11604,96.4,no
